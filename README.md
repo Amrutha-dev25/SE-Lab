@@ -1,2 +1,2 @@
 # Software-Engineering-Lab
-Coursework, lab assignments and software engineering artifacts.
+Coursework, Lab Assignments and Software Engineering Artifacts.
