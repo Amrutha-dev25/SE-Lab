@@ -1,18 +1,22 @@
 # L6_L7_52 — Visa Application
 
-Lab 6: Code and Branch Coverage
+## Lab 6: Code and Branch Coverage
 
-## About
+### About
 
-A small Python module that works out visa fees by visa type, entries, processing speed and nationality group, checks whether documents are complete and reports application status.
+A small Python module that calculates visa fees based on visa type, number of entries, processing speed, and nationality group. It also checks document completeness and reports visa application status.
 
-## Files
+### Files
 
 | File | Description |
-|------|-------------|
-| `visa_application.py` | The module under test |
+|---|---|
+| `visa_application.py` | The application module under test |
 | `test_visa_application.py` | Starter test file |
+| `CodeCoverageTest_52_application.py` | Test cases for code coverage |
+| `BranchCoverageTest_52_application.py` | Test cases for branch coverage |
+| `screenshots/` | Screenshots of the final code and branch coverage reports |
 
-Keep all your Lab 6 work in this `LAB6` folder. Lab 7 will be added to this repo later.
+### Lab 6 Work and Commits
 
-Refer to the lab handout for instructions.
+**Repository:** [Amrutha-dev25/L6_L7_52_visa_application](https://github.com/Amrutha-dev25/L6_L7_52_visa_application)
+
